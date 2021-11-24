@@ -3,12 +3,12 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -68,24 +68,24 @@
       "id": 1,
       "name_category": "Easy",
       "title": "Cara Setting GB WA",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xryWDpct7STqH4gTHoprngFgEgxMSkL4rg&usqp=CAU",
+      "description": "cara setting gb wa di hp",
       "link": "https://wartiny.github.io/baru/carasettinggbwa.html"
     },
         {
       "id": 2,
       "name_category": "Easy",
       "title": "Cara Menggunakan GB WA",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
+      "image": "https://i.pinimg.com/564x/5d/64/b3/5d64b3ec3ab1d43bb6454cd66806b627.jpg",
+      "description": "Tutorial Cara Menggunakan GB WA",
       "link": "https://wartiny.github.io/baru/caramenggunakandiandroid.html"
     },
     {
       "id": 3,
       "name_category": "Easy",
       "title": "Cara Instal GB WA",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPWVzTrw1pzisqRXb_Gt7GGFb7v8d9oSZpwpVHdIYAv2uHpDihWZvW8PqIKh7pfaggK8Y&usqp=CAU",
+      "description": "Penjelasan Cara Instal GB WA",
       "link": "https://wartiny.github.io/baru/carainstalwagb.html"
     },
     {
@@ -93,15 +93,15 @@
       "name_category": "Easy",
       "title": "Kekurangan GB WA",
       "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
+      "description": "beberapa Kekurangan GB WA",
       "link": "https://wartiny.github.io/baru/kekuranganwagb.html"
     },
     {
       "id": 5,
       "name_category": "Medium",
       "title": "Apa itu GB WA",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-V5tp3pBXNtOgS09FOupqy_4vkBOVisnPrpmHYV3k9QcGkluIGlj6JMIfKz7NxF4puis&usqp=CAU",
+      "description": "Pengertian dan Penjelasan Apa itu GB WA",
       "link": "https://wartiny.github.io/baru/pengertianwagb.html"
     }
   ]
