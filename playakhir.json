@@ -1,0 +1,100 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Medium",
+      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Hard",
+      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Tips to Win at the Game Party",
+      "image": "https://cdn.tgdd.vn/Files/2021/08/05/1373195/gameplay-cua-play-together-_1600x900-800-resize.png",
+      "description": "Guide and Tips to Win at the Game Party",
+      "link": "https://wartiny.github.io/baru/winingameparty.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Use the Skateboard in Pizza Missions",
+      "image": "https://image.winudf.com/v2/image1/Y29tLmhhZWdpbi5wbGF5dG9nZXRoZXJfc2NyZWVuX2lkXzZfMTYxOTc1Nzk0MF8wOTU/screen-6.jpg?fakeurl=1&type=.jpg",
+      "description": "Guide for Use the Skateboard in Pizza Missions",
+      "link": "https://wartiny.github.io/baru/useskateboardpizzamission.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Take Up Pizza Delivery Missions",
+      "image": "https://imag.malavida.com/mvimgbig/download-fs/play-together-31084-1.jpg",
+      "description": "Guide for Take Up Pizza Delivery Missions",
+      "link": "https://wartiny.github.io/baru/takeuppizzamission2.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Complete all Beginner Quests",
+      "image": "https://i.ytimg.com/vi/P1mGQNWxjEo/maxresdefault.jpg",
+      "description": "Guide for Complete all Beginner Quests",
+      "link": "https://wartiny.github.io/baru/beginnerquest1.html"
+    }
+  ]
+}
